@@ -1,7 +1,7 @@
 #!/bin/bash -e
 #
 # ==============================================================================
-# PAQUETE: canaima-base
+# PAQUETE: canaima-multimedia
 # ARCHIVO: postinst
 # DESCRIPCIÓN: Configura el sistema despues la instalación del paquete.
 # COPYRIGHT:
@@ -15,19 +15,12 @@
 # Este programa es software libre. Puede redistribuirlo y/o modificarlo bajo los
 # términos de la Licencia Pública General de GNU (versión 3).
 
-PKG="canaima-base"
+PKG="canaima-multimedia"
 
 case ${1} in
 
 	configure)
 	
-	if [ -x /usr/share/update-notifier/notify-reboot-required ]
-	then
-
-		/usr/share/update-notifier/notify-reboot-required
-
-	fi
-
 	;;
 
 	abort-upgrade|abort-remove|abort-deconfigure)
