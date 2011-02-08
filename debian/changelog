@@ -1,3 +1,9 @@
+canaima-multimedia (3.0+2) unstable; urgency=low
+
+  * [2098a6b] Removiendo dependencias
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Tue, 08 Feb 2011 02:14:19 -0430
+
 canaima-multimedia (3.0+1) unstable; urgency=low
 
   * [429357e] Corrigiendo detalles
