@@ -11,6 +11,6 @@ Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-multimedia/trees/mas
 
 Package: canaima-multimedia
 Architecture: all
-Depends: vlc, exaile, shotwell, inkscape, gimp, simple-scan, brasero, ${shlibs:Depends}, ${misc:Depends}
+Depends: vlc, exaile, shotwell, gimp, simple-scan, brasero, ${shlibs:Depends}, ${misc:Depends}
 Description: Aplicaciones multimedia para Canaima GNU/Linux
  Este metapaquete provee las aplicaciones multimedia para Canaima GNU/Linux.
