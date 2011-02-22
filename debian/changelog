@@ -1,3 +1,9 @@
+canaima-multimedia (3.0+5) unstable; urgency=low
+
+  * [878dddd] Agregando dependencias
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Tue, 22 Feb 2011 12:14:39 -0430
+
 canaima-multimedia (3.0+4) unstable; urgency=low
 
   * [7341b6d] Reduciendo dependencias
