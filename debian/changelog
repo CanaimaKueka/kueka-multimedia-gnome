@@ -1,3 +1,9 @@
+canaima-multimedia (3.0+11) unstable; urgency=low
+
+  * [303c2e8] Agregando dependencia a brasero.
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Wed, 06 Apr 2011 14:57:33 -0430
+
 canaima-multimedia (3.0+10) unstable; urgency=low
 
   * [f798713] Sustituyendo dependencia de GIMP por gpaint.
