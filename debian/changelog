@@ -1,3 +1,9 @@
+canaima-multimedia (3.0+10) unstable; urgency=low
+
+  * [f798713] Sustituyendo dependencia de GIMP por gpaint.
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Wed, 06 Apr 2011 06:24:44 -0430
+
 canaima-multimedia (3.0+9) unstable; urgency=low
 
   * [324266b] [ canaima-desarrollador ] Los siguientes archivos han sido
