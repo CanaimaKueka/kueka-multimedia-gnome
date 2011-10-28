@@ -1,3 +1,9 @@
+canaima-multimedia-gnome (3.1-2) unstable; urgency=low
+
+  * [e9f9c20] Mejorando debian/copyright
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Fri, 28 Oct 2011 08:44:56 -0430
+
 canaima-multimedia-gnome (3.1-1) unstable; urgency=low
 
   * [303c2e8] Agregando dependencia a brasero.
