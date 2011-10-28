@@ -11,6 +11,19 @@ Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-multimedia/trees/mas
 
 Package: canaima-multimedia-gnome
 Architecture: all
-Depends: totem, exaile, brasero, shotwell, gpaint, simple-scan, gstreamer0.10-tools, gstreamer0.10-plugins-ugly, gstreamer0.10-ffmpeg, ${shlibs:Depends}, ${misc:Depends}
+Depends:	vlc,
+		exaile,
+		brasero,
+		shotwell,
+		gpaint,
+		simple-scan,
+		gstreamer0.10-tools,
+		gstreamer0.10-plugins-ugly,
+		gstreamer0.10-ffmpeg,
+		gstreamer0.10-alsa,
+		gstreamer0.10-plugins-base,
+		gstreamer0.10-plugins-good,
+		${shlibs:Depends},
+		${misc:Depends}
 Description: Aplicaciones multimedia para Canaima GNU/Linux
  Este metapaquete provee las aplicaciones multimedia para Canaima GNU/Linux.
