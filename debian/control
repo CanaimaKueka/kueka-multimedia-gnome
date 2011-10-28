@@ -11,7 +11,7 @@ Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-multimedia/trees/mas
 
 Package: canaima-multimedia-gnome
 Architecture: all
-Depends:	vlc,
+Depends:	totem,
 		exaile,
 		brasero,
 		shotwell,
