@@ -2,7 +2,7 @@ Source: canaima-multimedia-gnome
 Section: misc
 Priority: optional
 Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
-Uploaders: Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>
+Uploaders: Randy Ortega <ortega571@gmail.com>
 Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.9.1
 Homepage: http://canaima.softwarelibre.gob.ve/
@@ -27,5 +27,5 @@ Depends:	totem,
 		${misc:Depends}
 Replaces: canaima-multimedia (>= 3.0)
 Conflicts: canaima-multimedia (>= 3.0)
-Description: Aplicaciones multimedia para Canaima GNU/Linux
+Description: Aplicaciones multimedia para Canaima GNU/Linux metapackage
  Este metapaquete provee las aplicaciones multimedia para Canaima GNU/Linux.
