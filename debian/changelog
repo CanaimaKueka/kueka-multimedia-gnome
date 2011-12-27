@@ -2,8 +2,10 @@ canaima-multimedia-gnome (3.1-7) unstable; urgency=low
 
   * [c0622be] Agregando Provides: canaima-multimedia para forzar el
     reemplazo automático en las actualizaciones de Canaima 3.0
+  * [fc2d5c3] "Modificando el uploader del archivo control"
+  * [ade6a46] eliminando warning
 
- -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Tue, 27 Dec 2011 15:07:19 -0430
+ -- Randy Ortega <ortega571@gmail.com>  Mon, 28 Nov 2011 13:55:02 -0430
 
 canaima-multimedia-gnome (3.1-6) unstable; urgency=low
 
