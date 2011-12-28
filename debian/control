@@ -12,6 +12,7 @@ Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-multimedia-gnome/tre
 Package: canaima-multimedia-gnome
 Architecture: all
 Depends:	totem,
+		totem-plugins,
 		exaile,
 		brasero,
 		brasero-cdrkit, 
