@@ -1,3 +1,9 @@
+canaima-multimedia-gnome (3.1-9) unstable; urgency=low
+
+  * [9a54043] Agregando totem-plugins a las dependencias
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Tue, 27 Dec 2011 20:15:53 -0430
+
 canaima-multimedia-gnome (3.1-8) unstable; urgency=low
 
   [ Randy Ortega ]
