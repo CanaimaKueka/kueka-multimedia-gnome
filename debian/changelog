@@ -1,3 +1,9 @@
+canaima-multimedia-gnome (3.1-11) unstable; urgency=low
+
+  * [b9e89d8] Removiendo GIMP de las dependencias
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Thu, 29 Dec 2011 12:36:54 -0430
+
 canaima-multimedia-gnome (3.1-10) unstable; urgency=low
 
   * [f8b1539] Agregando paquetes transicionales para facilitar la
