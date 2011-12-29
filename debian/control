@@ -29,8 +29,17 @@ Depends:	totem,
 		gstreamer0.10-plugins-good,
 		${shlibs:Depends},
 		${misc:Depends}
-Replaces: canaima-multimedia
-Conflicts: canaima-multimedia
+Replaces: canaima-multimedia (<< 3.1)
+Conflicts: canaima-multimedia (<< 3.1)
 Provides: canaima-multimedia
 Description: Aplicaciones multimedia para Canaima GNU/Linux
  Este metapaquete provee las aplicaciones multimedia para Canaima GNU/Linux.
+
+Package: canaima-multimedia
+Architecture: all
+Depends: canaima-multimedia-gnome (>= 3.1), ${shlibs:Depends}, ${misc:Depends}
+Description: Paquete transicional canaima-multimedia -> canaima-multimedia-gnome
+ Esto es un paquete transicional para que los usuarios puedan
+ actualizar de canaima-multimedia a canaima-multimedia-gnome sin muchos
+ problemas. Puede ser removido.
+
