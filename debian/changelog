@@ -7,8 +7,9 @@ canaima-multimedia-gnome (3.1-13) unstable; urgency=low
   * [05cd2ed] Incluyendo dependencia a libsamplerate0. Ticket #91.
   * [941be4b] Nueva versión
   * [b7fb9f1] Incluyendo dependencia a gpaint-l10n-es. Ticket #415.
+  * [d67cd79] Incluyendo dependencia a gpaint-l10n-es. Ticket #415.
 
- -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Fri, 11 May 2012 16:39:04 -0430
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Fri, 11 May 2012 16:40:21 -0430
 
 canaima-multimedia-gnome (3.1-12) unstable; urgency=low
 
