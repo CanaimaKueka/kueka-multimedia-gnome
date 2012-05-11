@@ -1,3 +1,9 @@
+canaima-multimedia-gnome (3.1-12) unstable; urgency=low
+
+  * [05cd2ed] Incluyendo dependencia a libsamplerate0. Ticket #91.
+
+ -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Fri, 11 May 2012 16:25:36 -0430
+
 canaima-multimedia-gnome (3.1-11) unstable; urgency=low
 
   * [b9e89d8] Removiendo GIMP de las dependencias
