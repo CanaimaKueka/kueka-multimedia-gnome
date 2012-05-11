@@ -26,6 +26,7 @@ Depends:	totem,
 		gstreamer0.10-alsa,
 		gstreamer0.10-plugins-base,
 		gstreamer0.10-plugins-good,
+		libsamplerate0,
 		${shlibs:Depends},
 		${misc:Depends}
 Replaces: canaima-multimedia (<< 3.1)
