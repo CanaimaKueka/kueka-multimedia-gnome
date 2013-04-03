@@ -2,9 +2,9 @@ Source: canaima-multimedia-gnome
 Section: misc
 Priority: optional
 Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
-Uploaders: Francisco Javier Vasquez Guerrero <franjvasquezg@gmail.com
+Uploaders: Francisco Javier Vasquez Guerrero <franjvasquezg@gmail.com>
 Build-Depends: debhelper (>= 7.0.50~)
-Standards-Version: 3.9.1
+Standards-Version: 3.9.4
 Homepage: http://canaima.softwarelibre.gob.ve/
 Vcs-Git: git://gitorious.org/canaima-gnu-linux/canaima-multimedia-gnome.git
 Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-multimedia-gnome/trees/master
