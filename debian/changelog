@@ -1,9 +1,13 @@
 canaima-multimedia-gnome (4.0) unstable; urgency=low
 
-  * [d224e42] Cambiando formato de fuentes a "xz". Cambiando formato de paquete fuente a nativo.
+  [ Luis Alejandro Martínez Faneyth ]
   * [0e9072e] Agregando dependencias, removiendo paquetes dummy.
+  * [d224e42] Cambiando formato de fuentes a "xz". Cambiando formato de paquete fuente a nativo.
 
- -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Tue, 23 Apr 2013 10:26:11 -0430
+  [ Erick Birbe ]
+  * [1243bf8] Eliminando opción de compresión en xz
+
+ -- Erick Birbe <erickcion@gmail.com>  Tue, 23 Apr 2013 15:59:50 -0430
 
 canaima-multimedia-gnome (3.2-1) unstable; urgency=low
 
