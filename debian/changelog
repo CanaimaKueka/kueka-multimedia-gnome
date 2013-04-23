@@ -1,3 +1,11 @@
+canaima-multimedia-gnome (4.0~1.gbp0e9072) UNRELEASED; urgency=low
+
+  ** SNAPSHOT build @0e9072ee778d54d61c4a21344b9e98a20c1678e1 **
+
+  * [0e9072e] Agregando dependencias, removiendo paquetes dummy.
+
+ -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Tue, 23 Apr 2013 10:24:40 -0430
+
 canaima-multimedia-gnome (3.2-1) unstable; urgency=low
 
   * Para canaima 4.0 kerepakupa
