@@ -34,5 +34,5 @@ Depends:totem,
 		gstreamer0.10-plugins-good,
 		libsamplerate0,
 		${misc:Depends}
-Description: Aplicaciones multimedia para Canaima GNU/Linux
+Description: Aplicaciones multimedia para Canaima GNU/Linux (metapackage)
  Este metapaquete provee las aplicaciones multimedia para Canaima GNU/Linux.

@@ -1,3 +1,17 @@
+canaima-multimedia-gnome (4.0) unstable; urgency=low
+
+  [ Luis Alejandro Martínez Faneyth ]
+  * [0e9072e] Agregando dependencias, removiendo paquetes dummy.
+  * [d224e42] Cambiando formato de fuentes a "xz". Cambiando formato de paquete fuente a nativo.
+
+  [ Erick Birbe ]
+  * [1243bf8] Eliminando opción de compresión en xz
+  * [9c816e1] Corrigiendo las dependencias
+  * [f0f89dc] Convirtiendo el paquete a Nativo
+  * [8af94ac] Corrigiendo errores de lintian
+
+ -- Erick Birbe <erickcion@gmail.com>  Wed, 01 May 2013 18:30:05 -0430
+
 canaima-multimedia-gnome (3.2-1) unstable; urgency=low
 
   * Para canaima 4.0 kerepakupa
