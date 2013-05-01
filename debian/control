@@ -2,7 +2,8 @@ Source: canaima-multimedia-gnome
 Section: misc
 Priority: optional
 Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
-Uploaders: Francisco Javier Vasquez Guerrero <franjvasquezg@gmail.com>
+Uploaders: Francisco Javier Vasquez Guerrero <franjvasquezg@gmail.com>,
+	Erick Birbe <erickcion@gmail.com>
 Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.9.4
 Homepage: http://canaima.softwarelibre.gob.ve/
@@ -11,13 +12,13 @@ Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-multimedia-gnome/tre
 
 Package: canaima-multimedia-gnome
 Architecture: all
-Depends:	totem,
+Depends:totem,
 		totem-plugins,
 		rhythmbox,
 		rhythmbox-plugin-cdrecorder,
 		rhythmbox-plugins,
-        brasero,
-		brasero-cdrkit, 
+		brasero,
+		brasero-cdrkit,
 		shotwell,
 		gpaint,
 		gtkpod,
@@ -32,18 +33,17 @@ Depends:	totem,
 		gstreamer0.10-plugins-base,
 		gstreamer0.10-plugins-good,
 		libsamplerate0,
-		${shlibs:Depends},
 		${misc:Depends}
 Replaces: canaima-multimedia (<< 3.1)
 Conflicts: canaima-multimedia (<< 3.1)
 Provides: canaima-multimedia
-Description: Aplicaciones multimedia para Canaima GNU/Linux
+Description: Aplicaciones multimedia para Canaima GNU/Linux (metapackage)
  Este metapaquete provee las aplicaciones multimedia para Canaima GNU/Linux.
 
 Package: canaima-multimedia
 Architecture: all
-Depends: canaima-multimedia-gnome (>= 3.1), ${shlibs:Depends}, ${misc:Depends}
-Description: Paquete transicional canaima-multimedia -> canaima-multimedia-gnome
+Depends: canaima-multimedia-gnome (>= 3.1), ${misc:Depends}
+Description: Paquete transicional (dummy)
  Esto es un paquete transicional para que los usuarios puedan
  actualizar de canaima-multimedia a canaima-multimedia-gnome sin muchos
  problemas. Puede ser removido.
