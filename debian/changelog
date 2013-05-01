@@ -1,11 +1,3 @@
-canaima-multimedia-gnome (4.0) unstable; urgency=low
-
-  * [9c816e1] Corrigiendo las dependencias
-  * [f0f89dc] Convirtiendo el paquete a Nativo
-  * [8af94ac] Corrigiendo errores de lintian
-
- -- Erick Birbe <erickcion@gmail.com>  Wed, 01 May 2013 14:32:04 -0430
-
 canaima-multimedia-gnome (3.2-1) unstable; urgency=low
 
   * Para canaima 4.0 kerepakupa
