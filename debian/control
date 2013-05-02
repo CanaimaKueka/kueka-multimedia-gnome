@@ -1,38 +1,29 @@
 Source: canaima-multimedia-gnome
 Section: misc
 Priority: optional
-Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
-Uploaders: Francisco Javier Vasquez Guerrero <franjvasquezg@gmail.com>,
-	Erick Birbe <erickcion@gmail.com>
+Maintainer: Francisco Javier Vasquez Guerrero <franjvasquezg@gmail.com>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.4
+Standards-Version: 3.9.3
 Homepage: http://canaima.softwarelibre.gob.ve/
 Vcs-Git: git://gitorious.org/canaima-gnu-linux/canaima-multimedia-gnome.git
 Vcs-Browser: http://gitorious.org/canaima-gnu-linux/canaima-multimedia-gnome/trees/master
 
 Package: canaima-multimedia-gnome
 Architecture: all
-Depends:totem,
-		totem-plugins,
+Depends:	totem,
+		totem-mozilla,
 		rhythmbox,
-		rhythmbox-plugin-cdrecorder,
-		rhythmbox-plugins,
 		brasero,
-		brasero-cdrkit,
 		shotwell,
 		gpaint,
-		gtkpod,
-		easytag,
-		soundconverter,
 		simple-scan,
 		pitivi,
 		gstreamer0.10-tools,
-		gstreamer0.10-plugins-ugly,
 		gstreamer0.10-ffmpeg,
 		gstreamer0.10-alsa,
+		gstreamer0.10-plugins-ugly,
 		gstreamer0.10-plugins-base,
 		gstreamer0.10-plugins-good,
-		libsamplerate0,
 		${misc:Depends}
 Description: Aplicaciones multimedia para Canaima GNU/Linux (metapackage)
  Este metapaquete provee las aplicaciones multimedia para Canaima GNU/Linux.
