@@ -1,3 +1,22 @@
+canaima-multimedia-gnome (4.0+1) unstable; urgency=low
+
+  [ Erick Birbe ]
+  * [1243bf8] Eliminando opción de compresión en xz
+  * [8911bad] Update changelog for 4.0 release
+  * [9c816e1] Corrigiendo las dependencias.
+    La dependencia de "soundconverter" estaba mal escrita y el
+    paquete gpaint-l10n-es ya no es mantenido por Canaima.
+  * [f0f89dc] Convirtiendo el paquete a Nativo.
+    Este paquete debe ser nativo porque no se importan codigos
+    fuentes de otros desarrolladores. Este es un metapaquete
+    mantenido por lo desarrolladores de Canaima.
+  * [8af94ac] Corrigiendo errores de lintian
+
+  [ Luis Alejandro Martínez Faneyth ]
+  * [41d5dec] Ajustando las dependencias para la primera alpha de Canaima 4.0.
+
+ -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Fri, 03 May 2013 15:15:34 -0430
+
 canaima-multimedia-gnome (4.0) unstable; urgency=low
 
   [ Luis Alejandro Martínez Faneyth ]
